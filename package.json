@@ -1,6 +1,6 @@
 {
   "name": "jmw-unsupported-1",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A test NPM package used to help improve my ability to use NPM",
   "main": "index.js",
   "scripts": {
